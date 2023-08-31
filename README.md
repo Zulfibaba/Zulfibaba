@@ -1,5 +1,7 @@
 # 💫 About Me:
 # Hello, I'm Zulfiqar Khan - Full Stack Developer 👋<br>
+<img align="right" alt="coding" width="400" src="https://github.com/Zulfibaba/Zulfibaba/assets/116812437/3ca614c1-4231-49c0-80bd-1d164fecf930">
+
 <br>Welcome to my GitHub profile! I'm passionate about creating innovative solutions and crafting efficient, user-friendly applications. As a Full Stack Developer, I enjoy working with both frontend and backend technologies to bring ideas to life.<br><br>📊 GitHub Stats:<br>
 🔭 Currently working on: , Laravel, PHP, Mongo DB, Express js, Vue js, MySQL<br><br>👯 Looking to collaborate on: Front-end Projects, Full-stack(that are cover in my stack)<br><br>## Skills<br>- Frontend: HTML, CSS, JavaScript,<br>- Backend: LARAVEL, PHP<br>- Database: MySQL <br>- Other: Git, RESTful APIs<br><br>## Fun Facts<br>- 🎮 I'm an avid gamer and love exploring virtual worlds.<br>- 📚 I enjoy reading tech blogs and staying up-to-date with industry trends.<br><br>Let's connect and explore the world of coding together! Feel free to reach out and say hello.<br>
 
